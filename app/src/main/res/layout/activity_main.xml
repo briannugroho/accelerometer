@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#FF9800"
     tools:context=".MainActivity">
-
+//mengatur tv square pada aplikasi
     <TextView
         android:id="@+id/tv_square"
         android:layout_width="200dp"
